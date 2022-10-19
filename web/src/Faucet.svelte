@@ -57,26 +57,9 @@
         <div class="container">
           <div class="navbar-brand">
             <a class="navbar-item" href=".">
-              <span class="icon">
-                <i class="fa fa-bath" />
-              </span>
-              <span><b>tGTFX Faucet</b></span>
             </a>
           </div>
           <div id="navbarMenu" class="navbar-menu">
-            <div class="navbar-end">
-              <span class="navbar-item">
-                <a
-                  class="button is-white is-outlined"
-                  href="https://github.com/gitshock-labs/Gitshock-Faucet.git"
-                >
-                  <span class="icon">
-                    <i class="fa fa-github" />
-                  </span>
-                  <span>View Source</span>
-                </a>
-              </span>
-            </div>
           </div>
         </div>
       </nav>
@@ -119,7 +102,7 @@
 
 <style>
   .hero.is-info {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
       url('/background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
