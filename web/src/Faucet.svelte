@@ -102,7 +102,7 @@
 
 <style>
   .hero.is-info {
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    background: #000
       url('/background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
